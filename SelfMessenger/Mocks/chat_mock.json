@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": "d6b31952-32e2-4177-a4c8-97c1ce642472",
+        "opponent": {
+            "id": "9b18eff2-360e-414f-a280-8caf52e75020",
+            "name": "ironman"
+        },
+        "lastMessage": {
+            "id": "13a8cbee-c949-4c2a-96b3-67553ea92382",
+            "chatID": "d6b31952-32e2-4177-a4c8-97c1ce642472",
+            "message": "Suspendisse potenti.",
+            "senderID": "7227a669-37ad-4527-94c2-baf8e105fb19",
+            "sentAt": "2022-02-31T01:30:00Z"
+        }
+    },
+    {
+        "id": "0c3f6279-e894-4cd6-aec2-5587abf7fa86",
+        "opponent": {
+            "id": "7eac8a92-a556-4cff-970a-58fe2b57197c",
+            "name": "thor"
+        },
+        "lastMessage": {
+            "id": "7583fe36-4f2d-48e6-9efa-284d08e83d9f",
+            "chatID": "0c3f6279-e894-4cd6-aec2-5587abf7fa86",
+            "message": "Vivamus vel nulla eget eros elementum pellentesque.",
+            "senderID": "7227a669-37ad-4527-94c2-baf8e105fb19",
+            "sentAt": "2022-02-31T02:30:00Z"
+        }
+    },
+    {
+        "id": "9f7d1c41-afb7-4561-ac7c-cbb66205ee60",
+        "opponent": {
+            "id": "71e99de6-b31a-4505-8dbb-8a3a5e195435",
+            "name": "hulk"
+        },
+        "lastMessage": {
+            "id": "f3e37969-a79b-4189-8d57-5bb12e1ec495",
+            "chatID": "9f7d1c41-afb7-4561-ac7c-cbb66205ee60",
+            "message": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+            "senderID": "7227a669-37ad-4527-94c2-baf8e105fb19",
+            "sentAt": "2022-02-31T03:30:00Z"
+        }
+    }
+]
