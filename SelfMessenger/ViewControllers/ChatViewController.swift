@@ -47,6 +47,7 @@ class ChatViewController: UIViewController {
             messages = MessageService.shared.getMessagesForChat(chatID: chat.id)
             tableView?.reloadData()
             messageTextField?.text = nil
+            messageTextField?.resignFirstResponder()
         }
     }
 }
